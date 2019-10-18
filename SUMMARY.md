@@ -47,6 +47,7 @@
     * [权](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/quan.md)
     * [叠](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/die.md)
     * [平移图形](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ping-yi-tu-xing.md)
+    * [测量距离](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ce-liang-ju-li.md)
   * 工作区
   * 菜单
   * 键盘精灵
