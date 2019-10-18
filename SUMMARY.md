@@ -25,7 +25,7 @@
   * [分时九转](te-se-gong-neng/fen-shi-jiu-zhuan.md)
   * [24节气](te-se-gong-neng/24jie-qi.md)
   * [顾比均线](te-se-gong-neng/gu-bi-jun-xian.md)
-  * 操盘线
+  * [操盘线](te-se-gong-neng/cao-pan-xian.md)
   * 异动雷达
   * 领涨龙头（专业版）
   * 评测系统（专业版）
