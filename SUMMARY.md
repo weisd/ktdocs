@@ -21,7 +21,7 @@
   * [个股行业概念](te-se-gong-neng/ge-gu-xing-ye-gai-nian.md)
   * [板块个股同列](te-se-gong-neng/ban-kuai-ge-gu-tong-lie.md)
   * [涨停次数统计](te-se-gong-neng/zhang-ting-ci-shu-tong-ji.md)
-  * 自动波浪
+  * [自动波浪](te-se-gong-neng/zi-dong-bo-lang.md)
   * 分时九转
   * 24节气
   * 顾比均线
@@ -34,7 +34,6 @@
   * 自绘形态选股
   * K线弹幕功能
   * 股票池（专业版）
-  
 * 多屏特色
   * 分屏显示
   * 一键分屏
