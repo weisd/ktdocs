@@ -34,7 +34,7 @@
   * [自绘形态选股](te-se-gong-neng/zi-hui-xing-tai-xuan-gu.md)
   * [K线弹幕功能](te-se-gong-neng/kxian-dan-mu-gong-neng.md)
   * [股票池（专业版）](te-se-gong-neng/gu-piao-chi-ff08-zhuan-ye-ban-ff09.md)
-* [多屏特色](duo-ping-te-se.md)
+* [多屏特色](duo-ping-te-se/fen-ping-xian-shi.md)
   * [分屏显示](duo-ping-te-se/fen-ping-xian-shi.md)
   * [一键分屏](duo-ping-te-se/yi-jian-fen-ping.md)
   * [自定义分屏](duo-ping-te-se/zi-ding-yi-fen-ping.md)
@@ -42,8 +42,8 @@
   * [十字光标联动](duo-ping-te-se/shi-zi-guang-biao-lian-dong.md)
   * [单屏快速定位](duo-ping-te-se/dan-ping-kuai-su-ding-wei.md)
   * [多屏多策略显示](duo-ping-te-se/duo-ping-duo-ce-lve-xian-shi.md)
-* 操作指南
-  * 快捷工具栏
+* [操作指南](cao-zuo-zhi-nan.md)
+  * [快捷工具栏](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan.md)
   * 工作区
   * 菜单
   * 键盘精灵
@@ -54,7 +54,7 @@
   * 公式管理面板
   * 测评系统
   * 交易平台
-* 画线工具使用说明
+* [画线工具使用说明](hua-xian-gong-ju-shi-yong-shuo-ming.md)
 * 全推特点
   * 数据更全
   * 分时线实时选股
