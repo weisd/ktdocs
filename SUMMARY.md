@@ -9,8 +9,8 @@
   * [常用术语](chapter1/gong-neng-liang-dian/chang-yong-zhu-yu.md)
   * [安装系统](chapter1/gong-neng-liang-dian/an-zhuang-xi-tong.md)
   * [进入系统 ](chapter1/gong-neng-liang-dian/jin-ru-xi-tong.md)
-  * 软件的登陆和数据接收
-  * 退出系统
+  * [软件的登陆和数据接收](chapter1/gong-neng-liang-dian/ruan-jian-de-deng-lu-he-shu-ju-jie-shou.md)
+  * [退出系统](chapter1/gong-neng-liang-dian/tui-chu-xi-tong.md)
 * [快捷键列表](xi-tong-jian-jie.md)
 * 特色功能
 * 多屏特色
