@@ -12,7 +12,7 @@
   * [软件的登陆和数据接收](gong-neng-liang-dian/ruan-jian-de-deng-lu-he-shu-ju-jie-shou.md)
   * [退出系统](gong-neng-liang-dian/tui-chu-xi-tong.md)
 * [快捷键列表](xi-tong-jian-jie.md)
-* [特色功能](te-se-gong-neng.md)
+* [特色功能](te-se-gong-neng/jiu-zhuan-xu-lie.md)
   * [九转序列](te-se-gong-neng/jiu-zhuan-xu-lie.md)
   * [趋势通道](te-se-gong-neng/qu-shi-tong-dao.md)
   * [星空雷达](te-se-gong-neng/xing-kong-lei-da.md)
@@ -34,8 +34,8 @@
   * [自绘形态选股](te-se-gong-neng/zi-hui-xing-tai-xuan-gu.md)
   * [K线弹幕功能](te-se-gong-neng/kxian-dan-mu-gong-neng.md)
   * [股票池（专业版）](te-se-gong-neng/gu-piao-chi-ff08-zhuan-ye-ban-ff09.md)
-* 多屏特色
-  * 分屏显示
+* [多屏特色](duo-ping-te-se.md)
+  * [分屏显示](duo-ping-te-se/fen-ping-xian-shi.md)
   * 一键分屏
   * 自定义分屏
   * 快捷键分屏
