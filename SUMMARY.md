@@ -55,6 +55,7 @@
     * [评](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ping.md)
     * [策](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ce.md)
     * [行](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/xing.md)
+    * [F10](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/f10.md)
   * 工作区
   * 菜单
   * 键盘精灵
