@@ -26,7 +26,7 @@
   * [24节气](te-se-gong-neng/24jie-qi.md)
   * [顾比均线](te-se-gong-neng/gu-bi-jun-xian.md)
   * [操盘线](te-se-gong-neng/cao-pan-xian.md)
-  * 异动雷达
+  * [异动雷达](te-se-gong-neng/yi-dong-lei-da.md)
   * 领涨龙头（专业版）
   * 评测系统（专业版）
   * 个股基本面行业排行
