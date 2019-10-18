@@ -27,7 +27,7 @@
   * [顾比均线](te-se-gong-neng/gu-bi-jun-xian.md)
   * [操盘线](te-se-gong-neng/cao-pan-xian.md)
   * [异动雷达](te-se-gong-neng/yi-dong-lei-da.md)
-  * 领涨龙头（专业版）
+  * [领涨龙头（专业版）](te-se-gong-neng/ling-zhang-long-tou-ff08-zhuan-ye-ban-ff09.md)
   * 评测系统（专业版）
   * 个股基本面行业排行
   * K线形态选股
