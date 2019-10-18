@@ -62,6 +62,7 @@
     * [板块](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ban-kuai.md)
     * [统计](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/tong-ji.md)
     * [分时线和K线周期切换](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/fen-shi-xian-he-k-xian-zhou-qi-qie-huan.md)
+    * [画线工具与取消画线状态](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/hua-xian-gong-ju-yu-qu-xiao-hua-xian-zhuang-tai.md)
   * 工作区
   * 菜单
   * 键盘精灵
