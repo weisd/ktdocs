@@ -61,6 +61,7 @@
     * [启动全部智能交易](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/qi-dong-quan-bu-zhi-neng-jiao-yi.md)
     * [板块](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ban-kuai.md)
     * [统计](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/tong-ji.md)
+    * [分时线和K线周期切换](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/fen-shi-xian-he-k-xian-zhou-qi-qie-huan.md)
   * 工作区
   * 菜单
   * 键盘精灵
