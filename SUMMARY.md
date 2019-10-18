@@ -49,6 +49,7 @@
     * [平移图形](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ping-yi-tu-xing.md)
     * [测量距离](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ce-liang-ju-li.md)
     * [全](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/quan1.md)
+    * 自
   * 工作区
   * 菜单
   * 键盘精灵
