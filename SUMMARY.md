@@ -64,5 +64,6 @@
 * 交易师多屏管理软件
   * [【多屏管理软件】产品概述](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu.md)
     * [交易师多屏管理软件特色](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu/jiao-yi-shi-duo-ping-guan-li-ruan-jian-te-se.md)
+    * [产品用途及运行环境](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu/chan-pin-yong-tu-ji-yun-xing-huan-jing.md)
   * 【多屏管理软件】功能列表
 
