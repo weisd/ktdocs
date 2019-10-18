@@ -33,6 +33,7 @@
   * 自绘形态选股
   * K线弹幕功能
   * 股票池（专业版）
+  * [涨停次数统计](te-se-gong-neng/zhang-ting-ci-shu-tong-ji.md)
 * 多屏特色
   * 分屏显示
   * 一键分屏
