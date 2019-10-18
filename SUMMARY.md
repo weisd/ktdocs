@@ -38,7 +38,7 @@
   * [分屏显示](duo-ping-te-se/fen-ping-xian-shi.md)
   * [一键分屏](duo-ping-te-se/yi-jian-fen-ping.md)
   * [自定义分屏](duo-ping-te-se/zi-ding-yi-fen-ping.md)
-  * 快捷键分屏
+  * [快捷键分屏](duo-ping-te-se/kuai-jie-jian-fen-ping.md)
   * 十字光标联动
   * 单屏快速定位
   * 多屏多策略显示
