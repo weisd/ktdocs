@@ -13,9 +13,9 @@
   * [退出系统](gong-neng-liang-dian/tui-chu-xi-tong.md)
 * [快捷键列表](xi-tong-jian-jie.md)
 * [特色功能](te-se-gong-neng.md)
-  * 九转序列
-  * 趋势通道
-  * 龙头次数统计
+  * [九转序列](te-se-gong-neng/jiu-zhuan-xu-lie.md)
+  * [趋势通道](te-se-gong-neng/qu-shi-tong-dao.md)
+  * [龙头次数统计](te-se-gong-neng/long-tou-ci-shu-tong-ji.md)
   * 板块周期统计
   * 个股行业概念
   * 板块个股同列
