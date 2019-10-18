@@ -31,7 +31,7 @@
   * [评测系统（专业版）](te-se-gong-neng/ping-ce-xi-tong-ff08-zhuan-ye-ban-ff09.md)
   * [个股基本面行业排行](te-se-gong-neng/ge-gu-ji-ben-mian-xing-ye-pai-xing.md)
   * [K线形态选股](te-se-gong-neng/kxian-xing-tai-xuan-gu.md)
-  * 自绘形态选股
+  * [自绘形态选股](te-se-gong-neng/zi-hui-xing-tai-xuan-gu.md)
   * K线弹幕功能
   * 股票池（专业版）
 * 多屏特色
