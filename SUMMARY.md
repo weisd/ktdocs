@@ -62,6 +62,7 @@
   * [即时指标排序](ji-shi-zhi-biao-pai-xu.md)
   * [全市场实时报价表](quan-shi-chang-shi-shi-bao-jia-biao.md)
 * 交易师多屏管理软件
-  * 【多屏管理软件】产品概述
+  * [【多屏管理软件】产品概述](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu.md)
+    * [交易师多屏管理软件特色](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu/jiao-yi-shi-duo-ping-guan-li-ruan-jian-te-se.md)
   * 【多屏管理软件】功能列表
 
