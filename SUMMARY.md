@@ -66,7 +66,8 @@
     * [画线设置](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/hua-xian-she-zhi.md)
     * [交易中心](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/jiao-yi-zhong-xin.md)
   * [工作区](cao-zuo-zhi-nan/gong-zuo-qu.md)
-  * 菜单
+  * [菜单](cao-zuo-zhi-nan/cai-dan.md)
+    * [系统](cao-zuo-zhi-nan/cai-dan/xi-tong.md)
   * 键盘精灵
   * 报价窗口
   * 分析窗口
