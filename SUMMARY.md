@@ -23,7 +23,7 @@
   * [涨停次数统计](te-se-gong-neng/zhang-ting-ci-shu-tong-ji.md)
   * [自动波浪](te-se-gong-neng/zi-dong-bo-lang.md)
   * [分时九转](te-se-gong-neng/fen-shi-jiu-zhuan.md)
-  * 24节气
+  * [24节气](te-se-gong-neng/24jie-qi.md)
   * 顾比均线
   * 操盘线
   * 异动雷达
