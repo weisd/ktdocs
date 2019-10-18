@@ -60,6 +60,7 @@
     * [锁定计算机](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/suo-ding-ji-suan-ji.md)
     * [启动全部智能交易](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/qi-dong-quan-bu-zhi-neng-jiao-yi.md)
     * [板块](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ban-kuai.md)
+    * [统计](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/tong-ji.md)
   * 工作区
   * 菜单
   * 键盘精灵
