@@ -8,7 +8,7 @@
 * [快速入门](chapter1/gong-neng-liang-dian/chang-yong-zhu-yu.md)
   * [常用术语](chapter1/gong-neng-liang-dian/chang-yong-zhu-yu.md)
   * [安装系统](chapter1/gong-neng-liang-dian/an-zhuang-xi-tong.md)
-  * 进入系统 
+  * [进入系统 ](chapter1/gong-neng-liang-dian/jin-ru-xi-tong.md)
   * 软件的登陆和数据接收
   * 退出系统
 * [快捷键列表](xi-tong-jian-jie.md)
