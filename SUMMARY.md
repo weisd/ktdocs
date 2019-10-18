@@ -33,7 +33,7 @@
   * [K线形态选股](te-se-gong-neng/kxian-xing-tai-xuan-gu.md)
   * [自绘形态选股](te-se-gong-neng/zi-hui-xing-tai-xuan-gu.md)
   * [K线弹幕功能](te-se-gong-neng/kxian-dan-mu-gong-neng.md)
-  * 股票池（专业版）
+  * [股票池（专业版）](te-se-gong-neng/gu-piao-chi-ff08-zhuan-ye-ban-ff09.md)
 * 多屏特色
   * 分屏显示
   * 一键分屏
