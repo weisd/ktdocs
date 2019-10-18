@@ -41,7 +41,7 @@
   * [快捷键分屏](duo-ping-te-se/kuai-jie-jian-fen-ping.md)
   * [十字光标联动](duo-ping-te-se/shi-zi-guang-biao-lian-dong.md)
   * [单屏快速定位](duo-ping-te-se/dan-ping-kuai-su-ding-wei.md)
-  * 多屏多策略显示
+  * [多屏多策略显示](duo-ping-te-se/duo-ping-duo-ce-lve-xian-shi.md)
 * 操作指南
   * 快捷工具栏
   * 工作区
