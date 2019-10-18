@@ -4,4 +4,4 @@
 
 
 
-blob.png
+![](/assets/17141.png)
