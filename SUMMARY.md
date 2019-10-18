@@ -64,6 +64,7 @@
     * [分时线和K线周期切换](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/fen-shi-xian-he-k-xian-zhou-qi-qie-huan.md)
     * [画线工具与取消画线状态](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/hua-xian-gong-ju-yu-qu-xiao-hua-xian-zhuang-tai.md)
     * [画线设置](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/hua-xian-she-zhi.md)
+    * [交易中心](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/jiao-yi-zhong-xin.md)
   * 工作区
   * 菜单
   * 键盘精灵
