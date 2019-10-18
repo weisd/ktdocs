@@ -51,6 +51,7 @@
     * [全](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/quan1.md)
     * 自
     * [选](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/xuan.md)
+    * [实](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/shi.md)
   * 工作区
   * 菜单
   * 键盘精灵
