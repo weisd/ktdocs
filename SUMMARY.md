@@ -18,7 +18,7 @@
   * [星空雷达](te-se-gong-neng/xing-kong-lei-da.md)
   * [龙头次数统计](te-se-gong-neng/long-tou-ci-shu-tong-ji.md)
   * [板块周期统计](te-se-gong-neng/ban-kuai-zhou-qi-tong-ji.md)
-  * 个股行业概念
+  * [个股行业概念](te-se-gong-neng/ge-gu-xing-ye-gai-nian.md)
   * 板块个股同列
   * 自动波浪
   * 分时九转
