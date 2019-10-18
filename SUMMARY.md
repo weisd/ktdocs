@@ -56,7 +56,7 @@
   * 交易平台
 * [画线工具使用说明](hua-xian-gong-ju-shi-yong-shuo-ming.md)
 * 全推特点
-  * 数据更全
+  * [数据更全](shu-ju-geng-quan.md)
   * 分时线实时选股
   * 画线预警
   * 即时指标排序
