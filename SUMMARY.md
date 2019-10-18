@@ -19,7 +19,7 @@
   * [龙头次数统计](te-se-gong-neng/long-tou-ci-shu-tong-ji.md)
   * [板块周期统计](te-se-gong-neng/ban-kuai-zhou-qi-tong-ji.md)
   * [个股行业概念](te-se-gong-neng/ge-gu-xing-ye-gai-nian.md)
-  * 板块个股同列
+  * [板块个股同列](te-se-gong-neng/ban-kuai-ge-gu-tong-lie.md)
   * 自动波浪
   * 分时九转
   * 24节气
