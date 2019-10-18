@@ -58,7 +58,7 @@
 * 全推特点
   * [数据更全](shu-ju-geng-quan.md)
   * [分时线实时选股](fen-shi-xian-shi-shi-xuan-gu.md)
-  * 画线预警
+  * [画线预警](hua-xian-yu-jing.md)
   * 即时指标排序
   * 全市场实时报价表
 * 交易师多屏管理软件
