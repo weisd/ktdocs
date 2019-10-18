@@ -60,7 +60,7 @@
   * [分时线实时选股](fen-shi-xian-shi-shi-xuan-gu.md)
   * [画线预警](hua-xian-yu-jing.md)
   * [即时指标排序](ji-shi-zhi-biao-pai-xu.md)
-  * 全市场实时报价表
+  * [全市场实时报价表](quan-shi-chang-shi-shi-bao-jia-biao.md)
 * 交易师多屏管理软件
   * 【多屏管理软件】产品概述
   * 【多屏管理软件】功能列表
