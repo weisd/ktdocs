@@ -15,9 +15,9 @@
 * [特色功能](te-se-gong-neng.md)
   * [九转序列](te-se-gong-neng/jiu-zhuan-xu-lie.md)
   * [趋势通道](te-se-gong-neng/qu-shi-tong-dao.md)
-  * 星空雷达
+  * [星空雷达](te-se-gong-neng/xing-kong-lei-da.md)
   * [龙头次数统计](te-se-gong-neng/long-tou-ci-shu-tong-ji.md)
-  * 板块周期统计
+  * [板块周期统计](te-se-gong-neng/ban-kuai-zhou-qi-tong-ji.md)
   * 个股行业概念
   * 板块个股同列
   * 自动波浪
@@ -33,7 +33,6 @@
   * 自绘形态选股
   * K线弹幕功能
   * 股票池（专业版）
- 
 * 多屏特色
   * 分屏显示
   * 一键分屏
