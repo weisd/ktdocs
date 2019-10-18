@@ -44,6 +44,7 @@
   * [多屏多策略显示](duo-ping-te-se/duo-ping-duo-ce-lve-xian-shi.md)
 * [操作指南](cao-zuo-zhi-nan.md)
   * [快捷工具栏](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan.md)
+    * [权](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/quan.md)
   * 工作区
   * 菜单
   * 键盘精灵
