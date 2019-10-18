@@ -22,7 +22,7 @@
   * [板块个股同列](te-se-gong-neng/ban-kuai-ge-gu-tong-lie.md)
   * [涨停次数统计](te-se-gong-neng/zhang-ting-ci-shu-tong-ji.md)
   * [自动波浪](te-se-gong-neng/zi-dong-bo-lang.md)
-  * 分时九转
+  * [分时九转](te-se-gong-neng/fen-shi-jiu-zhuan.md)
   * 24节气
   * 顾比均线
   * 操盘线
