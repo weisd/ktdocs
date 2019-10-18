@@ -36,7 +36,7 @@
   * [股票池（专业版）](te-se-gong-neng/gu-piao-chi-ff08-zhuan-ye-ban-ff09.md)
 * [多屏特色](duo-ping-te-se.md)
   * [分屏显示](duo-ping-te-se/fen-ping-xian-shi.md)
-  * 一键分屏
+  * [一键分屏](duo-ping-te-se/yi-jian-fen-ping.md)
   * 自定义分屏
   * 快捷键分屏
   * 十字光标联动
