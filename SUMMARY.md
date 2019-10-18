@@ -56,6 +56,7 @@
     * [策](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ce.md)
     * [行](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/xing.md)
     * [F10](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/f10.md)
+    * [切换配色方案](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/qie-huan-pei-se-fang-an.md)
   * 工作区
   * 菜单
   * 键盘精灵
