@@ -24,7 +24,7 @@
   * [自动波浪](te-se-gong-neng/zi-dong-bo-lang.md)
   * [分时九转](te-se-gong-neng/fen-shi-jiu-zhuan.md)
   * [24节气](te-se-gong-neng/24jie-qi.md)
-  * 顾比均线
+  * [顾比均线](te-se-gong-neng/gu-bi-jun-xian.md)
   * 操盘线
   * 异动雷达
   * 领涨龙头（专业版）
