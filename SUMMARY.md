@@ -104,6 +104,7 @@
     * [切换纵坐标类型](cao-zuo-zhi-nan/qie-huan-zong-zuo-biao-lei-xing.md)
     * [主图属性](cao-zuo-zhi-nan/zhu-tu-shu-xing.md)
     * [显示波段高低价](cao-zuo-zhi-nan/xian-shi-bo-duan-gao-di-jia.md)
+    * [反转坐标](cao-zuo-zhi-nan/fan-zhuan-zuo-biao.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
