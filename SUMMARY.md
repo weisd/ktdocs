@@ -106,6 +106,7 @@
     * [显示波段高低价](cao-zuo-zhi-nan/xian-shi-bo-duan-gao-di-jia.md)
     * [反转坐标](cao-zuo-zhi-nan/fan-zhuan-zuo-biao.md)
     * [在分析窗口中添加标记](cao-zuo-zhi-nan/zai-fen-xi-chuang-kou-zhong-tian-jia-biao-ji.md)
+    * [从分析界面添加证券到自选股/自定义板块](cao-zuo-zhi-nan/cong-fen-xi-jie-mian-tian-jia-zheng-quan-dao-zi-xuan-80a1-zi-ding-yi-ban-kuai.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
