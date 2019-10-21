@@ -85,6 +85,7 @@
     * [复制报价表数据](cao-zuo-zhi-nan/bao-jia-chuang-kou/fu-zhi-bao-jia-biao-shu-ju.md)
     * [设置/取消常用板块](cao-zuo-zhi-nan/bao-jia-chuang-kou/she-7f6e-qu-xiao-chang-yong-ban-kuai.md)
     * [使用键盘精灵加入证券到自选股板块或自定义板块](cao-zuo-zhi-nan/bao-jia-chuang-kou/shi-yong-jian-pan-jing-ling-jia-ru-zheng-quan-dao-zi-xuan-gu-ban-kuai-huo-zi-ding-yi-ban-kuai.md)
+    * [调整自选股板块或自定义板块中证券的显示位置](cao-zuo-zhi-nan/bao-jia-chuang-kou/diao-zheng-zi-xuan-gu-ban-kuai-huo-zi-ding-yi-ban-kuai-zhong-zheng-quan-de-xian-shi-wei-zhi.md)
   * 分析窗口
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
