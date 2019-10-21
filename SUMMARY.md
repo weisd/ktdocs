@@ -108,6 +108,7 @@
     * [在分析窗口中添加标记](cao-zuo-zhi-nan/zai-fen-xi-chuang-kou-zhong-tian-jia-biao-ji.md)
     * [从分析界面添加证券到自选股/自定义板块](cao-zuo-zhi-nan/cong-fen-xi-jie-mian-tian-jia-zheng-quan-dao-zi-xuan-80a1-zi-ding-yi-ban-kuai.md)
     * [在主图画面上叠加最新价线、分价分量、买卖盘](cao-zuo-zhi-nan/zai-zhu-tu-hua-mian-shang-die-jia-zui-xin-jia-xian-3001-fen-jia-fen-liang-3001-mai-mai-pan.md)
+    * [清除主图叠加](cao-zuo-zhi-nan/qing-chu-zhu-tu-die-jia.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
