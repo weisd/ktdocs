@@ -71,6 +71,7 @@
   * [键盘精灵](cao-zuo-zhi-nan/jian-pan-jing-ling.md)
     * [调出键盘精灵](cao-zuo-zhi-nan/jian-pan-jing-ling/uyi.md)
     * [键盘精灵操作](cao-zuo-zhi-nan/jian-pan-jing-ling/jian-pan-jing-ling-cao-zuo.md)
+    * [键盘精灵快捷码](cao-zuo-zhi-nan/jian-pan-jing-ling/jian-pan-jing-ling-kuai-jie-ma.md)
   * 报价窗口
   * 分析窗口
   * 分析窗口右信息栏
