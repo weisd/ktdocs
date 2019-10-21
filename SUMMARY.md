@@ -89,6 +89,7 @@
     * [从报价表中打开选中证券的分析窗口](cao-zuo-zhi-nan/bao-jia-chuang-kou/cong-bao-jia-biao-zhong-da-kai-xuan-zhong-zheng-quan-de-fen-xi-chuang-kou.md)
     * [报价表指标排序](cao-zuo-zhi-nan/bao-jia-chuang-kou/bao-jia-biao-zhi-biao-pai-xu.md)
   * 分析窗口
+    * [K线图/实时图切换](cao-zuo-zhi-nan/kxian-56fe-shi-shi-tu-qie-huan.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
