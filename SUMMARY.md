@@ -99,6 +99,7 @@
     * [显示/隐藏常用指标工具栏](cao-zuo-zhi-nan/xian-793a-yin-cang-chang-yong-zhi-biao-gong-ju-lan.md)
     * [画线功能](cao-zuo-zhi-nan/hua-xian-gong-neng.md)
     * [在分析画面上显示、操作公式指标](cao-zuo-zhi-nan/zai-fen-xi-hua-mian-shang-xian-shi-3001-cao-zuo-gong-shi-zhi-biao.md)
+    * [切换主图类型](cao-zuo-zhi-nan/qie-huan-zhu-tu-lei-xing.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
