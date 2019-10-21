@@ -4,7 +4,7 @@
 
 在自设指标页面中排序操作：
 
-blob.png 
+![blob.png ](/assets/175151.png)
 
 也可对指标进行刷新、另选指标、排序、删除等操作。
 
@@ -14,17 +14,17 @@ blob.png
 
 点击【查看】-【另存自设指标组合】，自定义一个文件名保存。
 
-blob.png 
+![blob.png ](/assets/175152.png)
 
-blob.png 
+![blob.png ](/assets/175153.png)
 
 自设指标报表调用操作如下：
 
 点【查看】-【调入自设指标组合】，选中需要调入的文件，打开即可。
 
-blob.png 
+![blob.png ](/assets/175154.png)
 
-blob.png 
+![blob.png ](/assets/175155.png)
 
  
 
