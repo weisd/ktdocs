@@ -78,6 +78,7 @@
     * [调整报价表显示栏目](cao-zuo-zhi-nan/bao-jia-chuang-kou/diao-zheng-bao-jia-biao-xian-shi-lan-mu.md)
     * [调整报价表显示列宽](cao-zuo-zhi-nan/bao-jia-chuang-kou/diao-zheng-bao-jia-biao-xian-shi-lie-kuan.md)
     * [切换报价表显示属性](cao-zuo-zhi-nan/bao-jia-chuang-kou/qie-huan-bao-jia-biao-xian-shi-shu-xing.md)
+    * [选中报价表中的证券](cao-zuo-zhi-nan/bao-jia-chuang-kou/xuan-zhong-bao-jia-biao-zhong-de-zheng-quan.md)
   * 分析窗口
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
