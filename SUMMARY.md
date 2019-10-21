@@ -97,6 +97,7 @@
     * [十字游标](cao-zuo-zhi-nan/shi-zi-you-biao.md)
     * [添加/删除/最大化副图](cao-zuo-zhi-nan/tian-52a0-shan-9664-zui-da-hua-fu-tu.md)
     * [显示/隐藏常用指标工具栏](cao-zuo-zhi-nan/xian-793a-yin-cang-chang-yong-zhi-biao-gong-ju-lan.md)
+    * [画线功能](cao-zuo-zhi-nan/hua-xian-gong-neng.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
