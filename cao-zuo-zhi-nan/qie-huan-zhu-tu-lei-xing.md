@@ -5,27 +5,27 @@
 蜡烛线：
 
 
-图片28.png
+![图片28.png](/assets/176111.png)
 
 美国线：
 
 
-图片29.png
+![图片29.png](/assets/176112.png)
 
 价位线：
 
 
-图片30.png
+![图片30.png](/assets/176113.png)
 
 宝塔线：
 
 
-图片31.png
+![图片31.png](/assets/176114.png)
 
 鬼变脸：
 
 
-图片32.png
+![图片32.png](/assets/176115.png)
 
 压缩线：
 
