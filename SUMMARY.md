@@ -83,6 +83,7 @@
     * [在报价表中添加/删除标记](cao-zuo-zhi-nan/bao-jia-chuang-kou/zai-bao-jia-biao-zhong-tian-52a0-shan-chu-biao-ji.md)
     * [从报价表中加入证券到自选股板块或自定义板块](cao-zuo-zhi-nan/bao-jia-chuang-kou/cong-bao-jia-biao-zhong-jia-ru-zheng-quan-dao-zi-xuan-gu-ban-kuai-huo-zi-ding-yi-ban-kuai.md)
     * [复制报价表数据](cao-zuo-zhi-nan/bao-jia-chuang-kou/fu-zhi-bao-jia-biao-shu-ju.md)
+    * [设置/取消常用板块](cao-zuo-zhi-nan/bao-jia-chuang-kou/she-7f6e-qu-xiao-chang-yong-ban-kuai.md)
   * 分析窗口
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
