@@ -68,7 +68,8 @@
   * [工作区](cao-zuo-zhi-nan/gong-zuo-qu.md)
   * [菜单](cao-zuo-zhi-nan/cai-dan.md)
     * [系统](cao-zuo-zhi-nan/cai-dan/xi-tong.md)
-  * 键盘精灵
+  * [键盘精灵](cao-zuo-zhi-nan/jian-pan-jing-ling.md)
+    * [调出键盘精灵](cao-zuo-zhi-nan/jian-pan-jing-ling/uyi.md)
   * 报价窗口
   * 分析窗口
   * 分析窗口右信息栏
