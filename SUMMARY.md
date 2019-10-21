@@ -95,6 +95,7 @@
     * [移动画面](cao-zuo-zhi-nan/yi-dong-hua-mian.md)
     * [切换画面分析周期](cao-zuo-zhi-nan/qie-huan-hua-mian-fen-xi-zhou-qi.md)
     * [十字游标](cao-zuo-zhi-nan/shi-zi-you-biao.md)
+    * [添加/删除/最大化副图](cao-zuo-zhi-nan/tian-52a0-shan-9664-zui-da-hua-fu-tu.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
