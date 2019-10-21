@@ -87,6 +87,7 @@
     * [使用键盘精灵加入证券到自选股板块或自定义板块](cao-zuo-zhi-nan/bao-jia-chuang-kou/shi-yong-jian-pan-jing-ling-jia-ru-zheng-quan-dao-zi-xuan-gu-ban-kuai-huo-zi-ding-yi-ban-kuai.md)
     * [调整自选股板块或自定义板块中证券的显示位置](cao-zuo-zhi-nan/bao-jia-chuang-kou/diao-zheng-zi-xuan-gu-ban-kuai-huo-zi-ding-yi-ban-kuai-zhong-zheng-quan-de-xian-shi-wei-zhi.md)
     * [从报价表中打开选中证券的分析窗口](cao-zuo-zhi-nan/bao-jia-chuang-kou/cong-bao-jia-biao-zhong-da-kai-xuan-zhong-zheng-quan-de-fen-xi-chuang-kou.md)
+    * [报价表指标排序](cao-zuo-zhi-nan/bao-jia-chuang-kou/bao-jia-biao-zhi-biao-pai-xu.md)
   * 分析窗口
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
