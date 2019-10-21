@@ -80,6 +80,7 @@
     * [切换报价表显示属性](cao-zuo-zhi-nan/bao-jia-chuang-kou/qie-huan-bao-jia-biao-xian-shi-shu-xing.md)
     * [选中报价表中的证券](cao-zuo-zhi-nan/bao-jia-chuang-kou/xuan-zhong-bao-jia-biao-zhong-de-zheng-quan.md)
     * [报价表排序/取消排序](cao-zuo-zhi-nan/bao-jia-chuang-kou/bao-jia-biao-pai-5e8f-qu-xiao-pai-xu.md)
+    * [在报价表中添加/删除标记](cao-zuo-zhi-nan/bao-jia-chuang-kou/zai-bao-jia-biao-zhong-tian-52a0-shan-chu-biao-ji.md)
   * 分析窗口
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
