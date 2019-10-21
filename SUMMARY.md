@@ -101,6 +101,7 @@
     * [在分析画面上显示、操作公式指标](cao-zuo-zhi-nan/zai-fen-xi-hua-mian-shang-xian-shi-3001-cao-zuo-gong-shi-zhi-biao.md)
     * [切换主图类型](cao-zuo-zhi-nan/qie-huan-zhu-tu-lei-xing.md)
     * [切换横坐标类型](cao-zuo-zhi-nan/qie-huan-heng-zuo-biao-lei-xing.md)
+    * [切换纵坐标类型](cao-zuo-zhi-nan/qie-huan-zong-zuo-biao-lei-xing.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
