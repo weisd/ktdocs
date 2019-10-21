@@ -91,6 +91,7 @@
   * 分析窗口
     * [K线图/实时图切换](cao-zuo-zhi-nan/kxian-56fe-shi-shi-tu-qie-huan.md)
     * [复权](cao-zuo-zhi-nan/fu-quan.md)
+    * [走势叠加\(主图叠加\)](cao-zuo-zhi-nan/zou-shi-die-52a028-zhu-tu-die-52a029.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
