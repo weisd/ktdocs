@@ -127,6 +127,7 @@
     * [后台程式化交易（非图形化）](cao-zuo-zhi-nan/hou-tai-cheng-shi-hua-jiao-yi-ff08-fei-tu-xing-hua-ff09.md)
     * [手工下单](cao-zuo-zhi-nan/shou-gong-xia-dan.md)
     * [委托](cao-zuo-zhi-nan/wei-tuo.md)
+    * [资金](cao-zuo-zhi-nan/zi-jin.md)
 * [画线工具使用说明](hua-xian-gong-ju-shi-yong-shuo-ming.md)
 * 全推特点
   * [数据更全](shu-ju-geng-quan.md)
