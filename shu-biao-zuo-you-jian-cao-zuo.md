@@ -4,7 +4,7 @@
 
 左键双击所选屏幕中的图标，可以启动软件例如双击主屏则主屏软件会启动
 
-image.png
+![image.png](/assets/110251.png)
 
 
 
@@ -16,4 +16,4 @@ image.png
 
 右键单击屏幕，可以定位到点击的屏幕
 
-image.png
+![image.png](/assets/110252.png)
