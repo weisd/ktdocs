@@ -1,4 +1,4 @@
-﻿# Summary
+# Summary
 
 * [交易师使用文档](README.md)
 * [关于交易师](chapter1/xi-tong-jian-jie.md)
@@ -49,7 +49,7 @@
     * [平移图形](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ping-yi-tu-xing.md)
     * [测量距离](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ce-liang-ju-li.md)
     * [全](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/quan1.md)
-    * 自
+    * [自](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/zi.md)
     * [选](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/xuan.md)
     * [实](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/shi.md)
     * [评](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ping.md)
