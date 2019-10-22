@@ -124,6 +124,7 @@
     * [时段统计](cao-zuo-zhi-nan/shi-duan-tong-ji.md)
   * [分析窗口右信息栏](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan.md)
     * [分析窗口右信息栏](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/fen-xi-chuang-kou-you-xin-xi-lan.md)
+    * [买卖盘](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/mai-mai-pan.md)
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
   * [测评系统](cao-zuo-zhi-nan/ce-ping-xi-tong.md)
