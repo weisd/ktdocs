@@ -123,8 +123,23 @@
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
-  * 测评系统
-  * 交易平台
+  * [测评系统](cao-zuo-zhi-nan/ce-ping-xi-tong.md)
+    * [测评设置](cao-zuo-zhi-nan/ce-ping-she-zhi.md)
+    * [测试报告](cao-zuo-zhi-nan/ce-shi-bao-gao.md)
+    * 策略分析
+    * [交易分析](cao-zuo-zhi-nan/jiao-yi-fen-xi.md)
+  * [交易平台](cao-zuo-zhi-nan/jiao-yi-ping-tai.md)
+    * [本地模拟交易登入/注销](cao-zuo-zhi-nan/ben-di-mo-ni-jiao-yi-deng-5165-zhu-xiao.md)
+    * [真实交易委托登入/注销](cao-zuo-zhi-nan/zhen-shi-jiao-yi-wei-tuo-deng-5165-zhu-xiao.md)
+    * [委托交易](cao-zuo-zhi-nan/wei-tuo-jiao-yi.md)
+    * [图形化程式化交易](cao-zuo-zhi-nan/tu-xing-hua-cheng-shi-hua-jiao-yi.md)
+    * [后台程式化交易（非图形化）](cao-zuo-zhi-nan/hou-tai-cheng-shi-hua-jiao-yi-ff08-fei-tu-xing-hua-ff09.md)
+    * [手工下单](cao-zuo-zhi-nan/shou-gong-xia-dan.md)
+    * [委托](cao-zuo-zhi-nan/wei-tuo.md)
+    * [资金](cao-zuo-zhi-nan/zi-jin.md)
+    * [持仓](cao-zuo-zhi-nan/chi-cang.md)
+    * [历史成交](cao-zuo-zhi-nan/li-shi-cheng-jiao.md)
+    * [合约配置](cao-zuo-zhi-nan/he-yue-pei-zhi.md)
 * [画线工具使用说明](hua-xian-gong-ju-shi-yong-shuo-ming.md)
 * 全推特点
   * [数据更全](shu-ju-geng-quan.md)
