@@ -188,4 +188,5 @@
     * [下载及登陆](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu/xia-zai-ji-deng-lu.md)
   * 【多屏管理软件】功能列表
     * [软件安装](ruan-jian-an-zhuang.md)
+    * [软件清除](ruan-jian-qing-chu.md)
 
