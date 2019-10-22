@@ -2,4 +2,4 @@
 
 点击软件所在屏幕右上角的“x”，可直接删除软件
 
-image.png
+![image.png](/assets/110221.png)
