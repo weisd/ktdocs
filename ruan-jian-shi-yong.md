@@ -2,4 +2,4 @@
 
 多屏管理软件初次登录的新用户可以试用三天
 
-image.png
+![image.png](/assets/1102131.png)
