@@ -135,6 +135,7 @@
     * [设置指标默认参数](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/she-zhi-zhi-biao-mo-ren-can-shu.md)
     * [条件选股](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/tiao-jian-xuan-gu.md)
     * [指标排序](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/zhi-biao-pai-xu.md)
+    * [导入/导出公式](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/dao-5165-dao-chu-gong-shi.md)
   * [测评系统](cao-zuo-zhi-nan/ce-ping-xi-tong.md)
     * [测评设置](cao-zuo-zhi-nan/ce-ping-she-zhi.md)
     * [测试报告](cao-zuo-zhi-nan/ce-shi-bao-gao.md)
