@@ -134,6 +134,7 @@
     * [走势](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/zou-shi.md)
     * [解盘](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/jie-pan.md)
   * [策略公式编辑器](cao-zuo-zhi-nan/ce-lve-gong-shi-bian-ji-qi.md)
+    * [打开/新建指标](cao-zuo-zhi-nan/ce-lve-gong-shi-bian-ji-qi/da-5f00-xin-jian-zhi-biao.md)
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
   * [测评系统](cao-zuo-zhi-nan/ce-ping-xi-tong.md)
