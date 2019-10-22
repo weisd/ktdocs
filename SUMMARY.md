@@ -131,6 +131,7 @@
     * [新建/编辑/删除公式](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/xin-5efa-bian-8f91-shan-chu-gong-shi.md)
     * [设置/取消常用公式](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/she-7f6e-qu-xiao-chang-yong-gong-shi.md)
     * [转移公式](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/zhuan-yi-gong-shi.md)
+    * [查看公式用法说明](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/cha-kan-gong-shi-yong-fa-shuo-ming.md)
   * [测评系统](cao-zuo-zhi-nan/ce-ping-xi-tong.md)
     * [测评设置](cao-zuo-zhi-nan/ce-ping-she-zhi.md)
     * [测试报告](cao-zuo-zhi-nan/ce-shi-bao-gao.md)
