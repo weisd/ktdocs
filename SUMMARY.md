@@ -189,4 +189,5 @@
   * 【多屏管理软件】功能列表
     * [软件安装](ruan-jian-an-zhuang.md)
     * [软件清除](ruan-jian-qing-chu.md)
+    * [多软件组合](duo-ruan-jian-zu-he.md)
 
