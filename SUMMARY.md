@@ -1,4 +1,4 @@
-﻿# Summary
+# Summary
 
 * [交易师使用文档](README.md)
 * [关于交易师](chapter1/xi-tong-jian-jie.md)
@@ -187,4 +187,5 @@
     * [产品用途及运行环境](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu/chan-pin-yong-tu-ji-yun-xing-huan-jing.md)
     * [下载及登陆](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu/xia-zai-ji-deng-lu.md)
   * 【多屏管理软件】功能列表
+    * [软件安装](ruan-jian-an-zhuang.md)
 
