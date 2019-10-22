@@ -195,4 +195,5 @@
     * [多屏联动](duo-ping-lian-dong.md)
     * [全屏设置](quan-ping-she-zhi.md)
     * [设置操作](she-zhi-cao-zuo.md)
+    * [帐户更改](zhang-hu-geng-gai.md)
 
