@@ -132,6 +132,7 @@
     * [移动成本](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/yi-dong-cheng-ben.md)
     * [指数](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/zhi-shu.md)
     * [走势](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/zou-shi.md)
+    * [解盘](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/jie-pan.md)
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
   * [测评系统](cao-zuo-zhi-nan/ce-ping-xi-tong.md)
