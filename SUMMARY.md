@@ -114,6 +114,7 @@
     * [多日实时图](cao-zuo-zhi-nan/duo-ri-shi-shi-tu.md)
     * [分析窗口自动翻页](cao-zuo-zhi-nan/fen-xi-chuang-kou-zi-dong-fan-ye.md)
     * [双击历史K线看当日分时](cao-zuo-zhi-nan/shuang-ji-li-shi-k-xian-kan-dang-ri-fen-shi.md)
+    * [多图同列](cao-zuo-zhi-nan/duo-tu-tong-lie.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
