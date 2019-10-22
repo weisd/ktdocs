@@ -198,4 +198,5 @@
     * [帐户更改](zhang-hu-geng-gai.md)
     * [一键启动](yi-jian-qi-dong.md)
     * [模板说明](mo-ban-shuo-ming.md)
+    * [拖动说明](tuo-dong-shuo-ming.md)
 
