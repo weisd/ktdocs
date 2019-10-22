@@ -193,4 +193,5 @@
     * [通达信多屏](tong-da-xin-duo-ping.md)
     * [鼠标左右键操作](shu-biao-zuo-you-jian-cao-zuo.md)
     * [多屏联动](duo-ping-lian-dong.md)
+    * [全屏设置](quan-ping-she-zhi.md)
 
