@@ -124,6 +124,7 @@
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * [公式管理面板](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban.md)
     * [公式搜索](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/gong-shi-sou-suo.md)
+    * [切换公式分类显示](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/qie-huan-gong-shi-fen-lei-xian-shi.md)
   * [测评系统](cao-zuo-zhi-nan/ce-ping-xi-tong.md)
     * [测评设置](cao-zuo-zhi-nan/ce-ping-she-zhi.md)
     * [测试报告](cao-zuo-zhi-nan/ce-shi-bao-gao.md)
