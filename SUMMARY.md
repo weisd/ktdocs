@@ -113,6 +113,7 @@
     * [从分析窗口中复制K线或指标数据](cao-zuo-zhi-nan/cong-fen-xi-chuang-kou-zhong-fu-zhi-k-xian-huo-zhi-biao-shu-ju.md)
     * [多日实时图](cao-zuo-zhi-nan/duo-ri-shi-shi-tu.md)
     * [分析窗口自动翻页](cao-zuo-zhi-nan/fen-xi-chuang-kou-zi-dong-fan-ye.md)
+    * [双击历史K线看当日分时](cao-zuo-zhi-nan/shuang-ji-li-shi-k-xian-kan-dang-ri-fen-shi.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
