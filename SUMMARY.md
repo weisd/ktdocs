@@ -140,7 +140,7 @@
   * [测评系统](cao-zuo-zhi-nan/ce-ping-xi-tong.md)
     * [测评设置](cao-zuo-zhi-nan/ce-ping-she-zhi.md)
     * [测试报告](cao-zuo-zhi-nan/ce-shi-bao-gao.md)
-    * 策略分析
+    * [策略分析](cao-zuo-zhi-nan/ce-lve-fen-xi.md)
     * [交易分析](cao-zuo-zhi-nan/jiao-yi-fen-xi.md)
     * [时段分析](cao-zuo-zhi-nan/shi-duan-fen-xi.md)
   * [交易平台](cao-zuo-zhi-nan/jiao-yi-ping-tai.md)
