@@ -202,4 +202,5 @@
     * [软件试用](ruan-jian-shi-yong.md)
     * [激活码激活](ji-huo-ma-ji-huo.md)
     * [软件购买](ruan-jian-gou-mai.md)
+    * [绑定账号](bang-ding-zhang-hao.md)
 
