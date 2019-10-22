@@ -2,4 +2,4 @@
 
 当想进行更换软件显示的屏幕，可以进行拖动图标即可
 
-image.png
+![image.png](/assets/1102121.png)
