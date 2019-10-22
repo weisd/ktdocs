@@ -140,6 +140,7 @@
     * [函数字典](cao-zuo-zhi-nan/ce-lve-gong-shi-bian-ji-qi/han-shu-zi-dian.md)
     * [菜单](cao-zuo-zhi-nan/ce-lve-gong-shi-bian-ji-qi/cai-dan.md)
     * [工具条](cao-zuo-zhi-nan/ce-lve-gong-shi-bian-ji-qi/gong-ju-tiao.md)
+    * [公式参数精灵面板](cao-zuo-zhi-nan/ce-lve-gong-shi-bian-ji-qi/gong-shi-can-shu-jing-ling-mian-ban.md)
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
   * [测评系统](cao-zuo-zhi-nan/ce-ping-xi-tong.md)
