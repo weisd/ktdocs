@@ -200,4 +200,5 @@
     * [模板说明](mo-ban-shuo-ming.md)
     * [拖动说明](tuo-dong-shuo-ming.md)
     * [软件试用](ruan-jian-shi-yong.md)
+    * [激活码激活](ji-huo-ma-ji-huo.md)
 
