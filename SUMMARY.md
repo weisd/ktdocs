@@ -122,7 +122,7 @@
     * [锁定显示时段](cao-zuo-zhi-nan/suo-ding-xian-shi-shi-duan.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
-  * 公式管理面板
+  * [公式管理面板](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban.md)
   * [测评系统](cao-zuo-zhi-nan/ce-ping-xi-tong.md)
     * [测评设置](cao-zuo-zhi-nan/ce-ping-she-zhi.md)
     * [测试报告](cao-zuo-zhi-nan/ce-shi-bao-gao.md)
