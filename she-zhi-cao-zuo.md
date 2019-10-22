@@ -2,4 +2,4 @@
 
 设置中包括热键、更换手机号绑定、极速关闭、开机启动等
 
-image.png
+![image.png](/assets/110281.png)
