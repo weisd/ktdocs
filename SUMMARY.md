@@ -197,4 +197,5 @@
     * [设置操作](she-zhi-cao-zuo.md)
     * [帐户更改](zhang-hu-geng-gai.md)
     * [一键启动](yi-jian-qi-dong.md)
+    * [模板说明](mo-ban-shuo-ming.md)
 
