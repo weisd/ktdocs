@@ -120,6 +120,7 @@
   * 公式管理面板
   * 测评系统
   * 交易平台
+    * [本地模拟交易登入/注销](cao-zuo-zhi-nan/ben-di-mo-ni-jiao-yi-deng-5165-zhu-xiao.md)
 * [画线工具使用说明](hua-xian-gong-ju-shi-yong-shuo-ming.md)
 * 全推特点
   * [数据更全](shu-ju-geng-quan.md)
