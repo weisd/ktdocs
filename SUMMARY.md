@@ -191,4 +191,5 @@
     * [软件清除](ruan-jian-qing-chu.md)
     * [多软件组合](duo-ruan-jian-zu-he.md)
     * [通达信多屏](tong-da-xin-duo-ping.md)
+    * [鼠标左右键操作](shu-biao-zuo-you-jian-cao-zuo.md)
 
