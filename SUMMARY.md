@@ -122,7 +122,8 @@
     * [锁定显示时段](cao-zuo-zhi-nan/suo-ding-xian-shi-shi-duan.md)
     * [历史回忆](cao-zuo-zhi-nan/li-shi-hui-yi.md)
     * [时段统计](cao-zuo-zhi-nan/shi-duan-tong-ji.md)
-  * 分析窗口右信息栏
+  * [分析窗口右信息栏](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan.md)
+    * [分析窗口右信息栏](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/fen-xi-chuang-kou-you-xin-xi-lan.md)
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
   * [测评系统](cao-zuo-zhi-nan/ce-ping-xi-tong.md)
