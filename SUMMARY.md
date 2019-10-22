@@ -128,6 +128,7 @@
     * [最新行情](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/zui-xin-xing-qing.md)
     * [明细](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/ming-xi.md)
     * [逐笔](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/zhu-bi.md)
+    * [财务](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/cai-wu.md)
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
   * [测评系统](cao-zuo-zhi-nan/ce-ping-xi-tong.md)
