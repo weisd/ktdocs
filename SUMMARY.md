@@ -1,4 +1,4 @@
-# Summary
+﻿# Summary
 
 * [交易师使用文档](README.md)
 * [关于交易师](chapter1/xi-tong-jian-jie.md)
@@ -161,9 +161,6 @@
     * [测试报告](cao-zuo-zhi-nan/ce-shi-bao-gao.md)
     * [策略分析](cao-zuo-zhi-nan/ce-lve-fen-xi.md)
     * [交易分析](cao-zuo-zhi-nan/jiao-yi-fen-xi.md)
-<<<<<<< HEAD
-  * 策略公式编辑器
-=======
     * [时段分析](cao-zuo-zhi-nan/shi-duan-fen-xi.md)
   * [交易平台](cao-zuo-zhi-nan/jiao-yi-ping-tai.md)
     * [本地模拟交易登入/注销](cao-zuo-zhi-nan/ben-di-mo-ni-jiao-yi-deng-5165-zhu-xiao.md)
@@ -177,7 +174,6 @@
     * [持仓](cao-zuo-zhi-nan/chi-cang.md)
     * [历史成交](cao-zuo-zhi-nan/li-shi-cheng-jiao.md)
     * [合约配置](cao-zuo-zhi-nan/he-yue-pei-zhi.md)
->>>>>>> 2e67113857d6fd9adbe36e3d62a990046367a934
 * [画线工具使用说明](hua-xian-gong-ju-shi-yong-shuo-ming.md)
 * 全推特点
   * [数据更全](shu-ju-geng-quan.md)
