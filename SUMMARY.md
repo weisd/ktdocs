@@ -194,4 +194,5 @@
     * [鼠标左右键操作](shu-biao-zuo-you-jian-cao-zuo.md)
     * [多屏联动](duo-ping-lian-dong.md)
     * [全屏设置](quan-ping-she-zhi.md)
+    * [设置操作](she-zhi-cao-zuo.md)
 
