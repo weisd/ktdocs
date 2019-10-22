@@ -127,6 +127,7 @@
     * [切换公式分类显示](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/qie-huan-gong-shi-fen-lei-xian-shi.md)
     * [公式树展开/折叠](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/gong-shi-shu-zhan-5f00-zhe-die.md)
     * [刷新公式树](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/shua-xin-gong-shi-shu.md)
+    * [新建/重命名/删除文件夹](cao-zuo-zhi-nan/gong-shi-guan-li-mian-ban/xin-5efa-zhong-ming-540d-shan-chu-wen-jian-jia.md)
   * [测评系统](cao-zuo-zhi-nan/ce-ping-xi-tong.md)
     * [测评设置](cao-zuo-zhi-nan/ce-ping-she-zhi.md)
     * [测试报告](cao-zuo-zhi-nan/ce-shi-bao-gao.md)
