@@ -1,4 +1,4 @@
-# Summary
+﻿# Summary
 
 * [交易师使用文档](README.md)
 * [关于交易师](chapter1/xi-tong-jian-jie.md)
@@ -49,11 +49,7 @@
     * [平移图形](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ping-yi-tu-xing.md)
     * [测量距离](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ce-liang-ju-li.md)
     * [全](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/quan1.md)
-<<<<<<< HEAD
-    * 自
-=======
     * [自](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/zi.md)
->>>>>>> 6dd08b6c62e88cc4d8b6414246d1fe130b37c94e
     * [选](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/xuan.md)
     * [实](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/shi.md)
     * [评](cao-zuo-zhi-nan/kuai-jie-gong-ju-lan/ping.md)
@@ -191,7 +187,6 @@
     * [产品用途及运行环境](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu/chan-pin-yong-tu-ji-yun-xing-huan-jing.md)
     * [下载及登陆](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu/xia-zai-ji-deng-lu.md)
   * 【多屏管理软件】功能列表
-<<<<<<< HEAD
     * [软件安装](ruan-jian-an-zhuang.md)
     * [软件清除](ruan-jian-qing-chu.md)
     * [多软件组合](duo-ruan-jian-zu-he.md)
@@ -208,6 +203,4 @@
     * [激活码激活](ji-huo-ma-ji-huo.md)
     * [软件购买](ruan-jian-gou-mai.md)
     * [绑定账号](bang-ding-zhang-hao.md)
-=======
->>>>>>> 6dd08b6c62e88cc4d8b6414246d1fe130b37c94e
 
