@@ -128,6 +128,7 @@
     * [手工下单](cao-zuo-zhi-nan/shou-gong-xia-dan.md)
     * [委托](cao-zuo-zhi-nan/wei-tuo.md)
     * [资金](cao-zuo-zhi-nan/zi-jin.md)
+    * [持仓](cao-zuo-zhi-nan/chi-cang.md)
 * [画线工具使用说明](hua-xian-gong-ju-shi-yong-shuo-ming.md)
 * 全推特点
   * [数据更全](shu-ju-geng-quan.md)
