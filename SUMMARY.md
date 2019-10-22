@@ -111,6 +111,7 @@
     * [清除主图叠加](cao-zuo-zhi-nan/qing-chu-zhu-tu-die-jia.md)
     * [副图叠加K线](cao-zuo-zhi-nan/fu-tu-die-jia-k-xian.md)
     * [从分析窗口中复制K线或指标数据](cao-zuo-zhi-nan/cong-fen-xi-chuang-kou-zhong-fu-zhi-k-xian-huo-zhi-biao-shu-ju.md)
+    * [多日实时图](cao-zuo-zhi-nan/duo-ri-shi-shi-tu.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
