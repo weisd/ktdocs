@@ -117,6 +117,7 @@
     * [多图同列](cao-zuo-zhi-nan/duo-tu-tong-lie.md)
     * [预警](cao-zuo-zhi-nan/yu-jing.md)
     * [训练模式](cao-zuo-zhi-nan/xun-lian-mo-shi.md)
+    * [太阳风暴](cao-zuo-zhi-nan/tai-yang-feng-bao.md)
   * 分析窗口右信息栏
   * [导航面板](cao-zuo-zhi-nan/dao-hang-mian-ban.md)
   * 公式管理面板
