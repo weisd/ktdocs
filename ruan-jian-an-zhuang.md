@@ -6,12 +6,12 @@
 
 温馨提示：当软件安装在哪个屏幕，启动后会自动锁定到该屏幕。
 
-image.png
+![image.png](/assets/110211.png)
 
                                            图1
 
 
 
-image.png
+![image.png](/assets/110212.png)
 
                                             图2  
