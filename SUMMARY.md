@@ -123,7 +123,6 @@
     * [历史回忆](cao-zuo-zhi-nan/li-shi-hui-yi.md)
     * [时段统计](cao-zuo-zhi-nan/shi-duan-tong-ji.md)
   * [分析窗口右信息栏](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan.md)
-    * [分析窗口右信息栏](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/fen-xi-chuang-kou-you-xin-xi-lan.md)
     * [买卖盘](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/mai-mai-pan.md)
     * [最新行情](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/zui-xin-xing-qing.md)
     * [明细](cao-zuo-zhi-nan/fen-xi-chuang-kou-you-xin-xi-lan/ming-xi.md)
