@@ -122,6 +122,7 @@
     * [测评设置](cao-zuo-zhi-nan/ce-ping-she-zhi.md)
     * [测试报告](cao-zuo-zhi-nan/ce-shi-bao-gao.md)
     * 策略分析
+    * [交易分析](cao-zuo-zhi-nan/jiao-yi-fen-xi.md)
   * [交易平台](cao-zuo-zhi-nan/jiao-yi-ping-tai.md)
     * [本地模拟交易登入/注销](cao-zuo-zhi-nan/ben-di-mo-ni-jiao-yi-deng-5165-zhu-xiao.md)
     * [真实交易委托登入/注销](cao-zuo-zhi-nan/zhen-shi-jiao-yi-wei-tuo-deng-5165-zhu-xiao.md)
