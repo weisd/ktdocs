@@ -18,7 +18,6 @@
   * [板块周期统计](te-se-gong-neng/ban-kuai-zhou-qi-tong-ji.md)
   * [板块叠加](te-se-gong-neng/ban-kuai-ge-gu-tong-lie.md)
   * [涨停次数统计](te-se-gong-neng/zhang-ting-ci-shu-tong-ji.md)
-  * [异动雷达](te-se-gong-neng/yi-dong-lei-da.md)
   * [领涨龙头](te-se-gong-neng/ling-zhang-long-tou-ff08-zhuan-ye-ban-ff09.md)
   * [评测系统](te-se-gong-neng/ping-ce-xi-tong-ff08-zhuan-ye-ban-ff09.md)
   * [K线形态选股](te-se-gong-neng/kxian-xing-tai-xuan-gu.md)
