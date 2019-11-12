@@ -1,7 +1,8 @@
-﻿# Summary
 
-* [好人好股使用文档](README.md)
-* [关于好人好股](chapter1/xi-tong-jian-jie.md)
+# Summary
+
+* [交易师使用文档](README.md)
+* [关于交易师](chapter1/xi-tong-jian-jie.md)
   * [系统简介](chapter1/xi-tong-jian-jie.md)
   * [功能亮点](chapter1/gong-neng-liang-dian.md)
   * [系统配置要求](chapter1/xi-tong-pei-zhi-yao-qiu.md)
@@ -68,6 +69,11 @@
   * [工作区](cao-zuo-zhi-nan/gong-zuo-qu.md)
   * [菜单](cao-zuo-zhi-nan/cai-dan.md)
     * [系统](cao-zuo-zhi-nan/cai-dan/xi-tong.md)
+    * [交易](cao-zuo-zhi-nan/cai-dan/jiao-yi.md)
+    * [查看](cao-zuo-zhi-nan/cai-dan/cha-kan.md)
+    * [工具](cao-zuo-zhi-nan/cai-dan/gong-ju.md)
+    * [窗口](cao-zuo-zhi-nan/cai-dan/chuang-kou.md)
+    * [帮助](cao-zuo-zhi-nan/cai-dan/bang-zhu.md)
   * [键盘精灵](cao-zuo-zhi-nan/jian-pan-jing-ling.md)
     * [调出键盘精灵](cao-zuo-zhi-nan/jian-pan-jing-ling/uyi.md)
     * [键盘精灵操作](cao-zuo-zhi-nan/jian-pan-jing-ling/jian-pan-jing-ling-cao-zuo.md)
@@ -181,9 +187,9 @@
   * [画线预警](hua-xian-yu-jing.md)
   * [即时指标排序](ji-shi-zhi-biao-pai-xu.md)
   * [全市场实时报价表](quan-shi-chang-shi-shi-bao-jia-biao.md)
-* 好人好股多屏管理软件
+* 交易师多屏管理软件
   * [【多屏管理软件】产品概述](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu.md)
-    * [好人好股多屏管理软件特色](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu/jiao-yi-shi-duo-ping-guan-li-ruan-jian-te-se.md)
+    * [交易师多屏管理软件特色](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu/jiao-yi-shi-duo-ping-guan-li-ruan-jian-te-se.md)
     * [产品用途及运行环境](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu/chan-pin-yong-tu-ji-yun-xing-huan-jing.md)
     * [下载及登陆](3010-duo-ping-guan-li-ruan-jian-3011-chan-pin-gai-shu/xia-zai-ji-deng-lu.md)
   * 【多屏管理软件】功能列表
@@ -203,4 +209,5 @@
     * [激活码激活](ji-huo-ma-ji-huo.md)
     * [软件购买](ruan-jian-gou-mai.md)
     * [绑定账号](bang-ding-zhang-hao.md)
+
 
