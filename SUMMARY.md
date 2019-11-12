@@ -69,6 +69,7 @@
   * [菜单](cao-zuo-zhi-nan/cai-dan.md)
     * [系统](cao-zuo-zhi-nan/cai-dan/xi-tong.md)
     * [交易](cao-zuo-zhi-nan/cai-dan/jiao-yi.md)
+    * [查看](cao-zuo-zhi-nan/cai-dan/cha-kan.md)
   * [键盘精灵](cao-zuo-zhi-nan/jian-pan-jing-ling.md)
     * [调出键盘精灵](cao-zuo-zhi-nan/jian-pan-jing-ling/uyi.md)
     * [键盘精灵操作](cao-zuo-zhi-nan/jian-pan-jing-ling/jian-pan-jing-ling-cao-zuo.md)
