@@ -145,3 +145,9 @@
     * [历史成交](cao-zuo-zhi-nan/li-shi-cheng-jiao.md)
     * [合约配置](cao-zuo-zhi-nan/he-yue-pei-zhi.md)
 * [画线工具使用说明](hua-xian-gong-ju-shi-yong-shuo-ming.md)
+* 全推特点
+  * [数据更全](shu-ju-geng-quan.md)
+  * [分时线实时选股](fen-shi-xian-shi-shi-xuan-gu.md)
+  * [画线预警](hua-xian-yu-jing.md)
+  * [即时指标排序](ji-shi-zhi-biao-pai-xu.md)
+  * [全市场实时报价表](quan-shi-chang-shi-shi-bao-jia-biao.md)
