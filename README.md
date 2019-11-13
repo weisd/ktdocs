@@ -83,7 +83,7 @@
     * [在主图画面上叠加最新价线、分价分量、买卖盘](cao-zuo-zhi-nan/zai-zhu-tu-hua-mian-shang-die-jia-zui-xin-jia-xian-3001-fen-jia-fen-liang-3001-mai-mai-pan.md)
     * [清除主图叠加](cao-zuo-zhi-nan/qing-chu-zhu-tu-die-jia.md)
     * [副图叠加K线](cao-zuo-zhi-nan/fu-tu-die-jia-k-xian.md)
-    * [从分析窗口中复制K线或指标数据](cao-zuo-zhi-nan/cong-fen-xi-chuang-kou-zhong-fu-zhi-k-xian-huo-zhi-biao-shu-ju.md)
+    * [从分析窗口中复制指标数据](cao-zuo-zhi-nan/cong-fen-xi-chuang-kou-zhong-fu-zhi-k-xian-huo-zhi-biao-shu-ju.md)
     * [多日实时图](cao-zuo-zhi-nan/duo-ri-shi-shi-tu.md)
     * [分析窗口自动翻页](cao-zuo-zhi-nan/fen-xi-chuang-kou-zi-dong-fan-ye.md)
     * [双击历史K线看当日分时](cao-zuo-zhi-nan/shuang-ji-li-shi-k-xian-kan-dang-ri-fen-shi.md)
